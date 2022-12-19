@@ -3,3 +3,13 @@ C:\Users\User\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net6.0\D
 C:\Users\User\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.AssemblyInfo.cs
 C:\Users\User\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DevFreela\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Infrastructure.deps.json
+C:\Users\User\source\repos\DevFreela\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Infrastructure.dll
+C:\Users\User\source\repos\DevFreela\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Infrastructure.pdb
+C:\Users\User\source\repos\DevFreela\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Core.dll
+C:\Users\User\source\repos\DevFreela\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Core.pdb
+C:\Users\User\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.csproj.CopyComplete
+C:\Users\User\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.dll
+C:\Users\User\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net6.0\refint\DevFreela.Infrastructure.dll
+C:\Users\User\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.pdb
+C:\Users\User\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net6.0\ref\DevFreela.Infrastructure.dll
